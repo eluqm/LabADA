@@ -13,6 +13,6 @@ El alumno deberá de analizar y comprender las diferentes técnicas de diseño d
 ### 0.1 Análisis Asintótico
 Describir en que situaciones se puede presentar los siguiente complejidades de los algoritmos, incluya un ejemplo de un problema:
 <center>
-![Table](Screenshot 2024-04-18 at 12.24.48 AM.png)
+![Table](table.png)
 </center>
 👉🏽 **Tarea** 👈🏽 Tómate el tiempo para revisar los archivos. Deberían compilarse sin modificaciones en este punto. 
