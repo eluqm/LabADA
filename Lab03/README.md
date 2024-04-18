@@ -24,5 +24,17 @@ Detalle el tiempo de ejecución linea a linea y total de los siguientes algoritm
   
   ![BST Add 2](algo01.png)
 </center>
+<center>
+  
+  ![BST Add 2](algo02.png)
+</center>
+<center>
+  
+  ![BST Add 2](algo04.png)
+</center>
+<center>
+  
+  ![BST Add 2](algo05.png)
+</center>
 
 👉🏽 **Tarea** 👈🏽 Tómate el tiempo para revisar los archivos. Deberían compilarse sin modificaciones en este punto. 
